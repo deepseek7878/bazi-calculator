@@ -13,7 +13,9 @@ Input birth year, month, day, hour → Generate Bazi chart, four pillars, heaven
 
 ## 💰 联系我获取完整源码
 📱 Telegram：@fox_lovemyself
-、
+
+📧 Email：lihongbo9414@gmail.com
+
 👉 联系我获取演示视频 + 详细报价
 
 
