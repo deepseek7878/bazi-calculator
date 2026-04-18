@@ -138,6 +138,34 @@ A symbolic decision-making system based on Bazi (Four Pillars of Destiny).
 - 🔄 大运流年详细分析
 - 🔄 Web demo
 - 🔄 More chart styles
+## 🧠 System Design | 系统设计
+
+- Four Pillars calculation engine  
+- Five Elements modeling  
+- Ten Gods relationship system  
+- Rule-based inference logic
+## 📊 Example Output
+
+Input:
+1990-05-15 12:00
+
+Output:
+- Year Pillar: Geng Wu
+- Day Master: Fire
+- Five Elements: Balanced
+## 🤖 AI Extension | AI扩展
+
+- AI-based Bazi interpretation  
+- Personality modeling  
+- Decision-support systems  
+
+Bridging traditional metaphysics with modern AI
+## 🚀 Quick Start
+
+git clone ...
+cd project
+npm install
+npm start
 
 ## 🤝 Contributing / 贡献指南 / 貢獻指南
 
