@@ -1,3 +1,4 @@
+# Bazi Calculator | 八字排盘 | 八字排盤工具
 # Bazi Calculator
 
 [![GitHub stars](https://img.shields.io/github/stars/deepseek7878/bazi-calculator?style=for-the-badge)](https://github.com/deepseek7878/bazi-calculator)
